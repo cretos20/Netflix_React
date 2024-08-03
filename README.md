@@ -43,7 +43,7 @@ To set up the Netflix Frontend Clone, follow these steps:
    git clone [https://github.com/your-username/netflix-frontend-clone.git](https://github.com/cretos20/Netflix_React.git)
 2. Navigate to the project directory:
    ```bash
-   cd netflix-frontend-clone
+   cd Netflix_React
 3. Install the required dependencies:
    ```bash
    npm install
